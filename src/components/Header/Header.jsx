@@ -59,7 +59,9 @@ const Header = () => {
               </span>
               <Link to="/wallet">Connect Wallet</Link>
             </button>
-            </div>
+
+          
+          </div>
         </div>
         
      </Container>
